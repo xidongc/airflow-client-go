@@ -26,8 +26,8 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/apache/airflow-client-go/airflow"
 	"github.com/stretchr/testify/assert"
+	"github.com/xidongc/airflow-client-go/airflow"
 )
 
 func TestBasicAuth(t *testing.T) {

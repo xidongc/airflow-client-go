@@ -32,7 +32,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/apache/airflow-client-go/airflow"
+	"github.com/xidongc/airflow-client-go/airflow"
 )
 
 func main() {
